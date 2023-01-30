@@ -2,6 +2,8 @@
 
 ### Added
 
+- [PR #141](https://github.com/konpyutaika/nifikop/pull/141) - **[Helm Chart]** Added nifi-cluster helm chart.
+
 ### Changed
 
 ### Fixed Bugs
